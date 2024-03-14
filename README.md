@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @op-a-l
-- 👀 I’m interested in music software, web-app development
-- 🌱 I’m currently learning digital art at the university and development all alone
+- 👀 I’m interested in creative coding such as p5, processing or tone.js and web-app development with svelte.
+- 🌱 I’m currently learning digital art in master degree at the university. I also learn web dev with svelte all alone.
 
 <!---
 op-a-l/op-a-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
